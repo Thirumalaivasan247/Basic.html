@@ -1,0 +1,46 @@
+
+
+/* .main{
+    display: flex;
+   justify-content: space-around;
+} */
+
+.thiru {
+    background-color: aquamarine;
+    border: 5px solid red;
+    margin-left: 20px;
+    text-align: center;
+    height: 200px;
+    width: 200px;
+   
+    
+    
+}
+.thiru2  {
+    color: red;
+    background-color: orange;
+    font-family: cursive;
+    text-align: center;
+    border: 5px solid black;
+    height: 200px;
+    width: 200px;
+   
+
+
+    
+}
+.thiru3{
+    background-color: pink;
+    border: 5px solid black;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+
+.main{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    margin-top: 200px;
+
+}       
